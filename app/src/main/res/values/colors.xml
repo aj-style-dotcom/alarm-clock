@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vibrant">#5830B8</color>
+    <color name="vibrant_light">#9858C8</color>
+    <color name="muted">#8860B8</color>
+    <color name="muted_light">#9868B8</color>
+    <color name="dominant">#5830B8</color>
+    <color name="red">#FF1744</color>
+    <color name="black">#131313</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

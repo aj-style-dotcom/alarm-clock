@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Alarm Clock</string>
+    <string name="db_name">Alarm_Database</string>
+    <string name="table_name">Alarm_Table</string>
+    <string name="bundle_name">Alarm_Bundle</string>
+    <string name="model_name">Alarm_Model</string>
+    <string name="channel_id">alarm clock</string>
+    <string name="channel_name">simple alarm clock</string>
+    <string name="stop_button">Click To Dismiss</string>
+    <string name="repeate">Repeate</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="create_button">Create</string>
+    <string name="active">Active</string>
+    <string name="no_label">No Label …</string>
+    <string name="save_button">Save</string>
+    <string name="delete_button">Delete</string>
+</resources>

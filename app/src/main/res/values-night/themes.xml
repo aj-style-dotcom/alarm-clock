@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Theme.ClockProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/vibrant</item>
+        <item name="colorSecondary">@color/vibrant</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+    </style>
+
+</resources>
